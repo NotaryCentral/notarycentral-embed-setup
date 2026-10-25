@@ -1,0 +1,4 @@
+interface:
+  display_name: "NotaryCentral Embed Setup"
+  short_description: "Set up NotaryCentral signing on your website"
+  default_prompt: "Use $notarycentral-embed-setup to help me embed the NotaryCentral signer experience on my website."
